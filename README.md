@@ -20,6 +20,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Incidents and Case Studies](#incidents-and-case-studies)
 - [Talks and Presentations](#talks-and-presentations)
 - [Books and Guides](#books-and-guides)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with agent security features: Kyverno policy enforcement, supply chain security (SBOM, SLSA), and AI agent access controls. CNCF Sandbox project.
 
 ---
 
