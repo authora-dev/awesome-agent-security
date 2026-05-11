@@ -67,6 +67,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 
 *Detecting and responding to AI agent threats.*
 
+- [AIGEN Protocol](https://github.com/Aigen-Protocol/aigen-protocol) - MCP and REST safety layer for crypto-trading agents, with token risk scoring, honeypot checks, SafeRouter preflight tools, and wallet alerts.
 - [Authora SIP](https://authora.dev/security) - Security Intelligence Platform with 36 detection rules, 8 SIEM export connectors (Splunk, Datadog, PagerDuty), SOAR callback API, OCSF/CEF compliance.
 - [Caldera](https://caldera.mitre.org) - Automated adversary emulation by MITRE. Adaptable for testing agent security.
 - [Falco](https://falco.org) - Cloud-native runtime security. Detects anomalous behavior in containers running agents.
