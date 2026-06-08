@@ -32,6 +32,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Oso](https://osohq.com) - Authorization framework with Polar policy language. Agent Security product with scope/watch/enforce/audit.
 - [SPIFFE/SPIRE](https://spiffe.io) - Secure Production Identity Framework for Everyone. Workload identity standard applicable to agent systems.
 - [Sigstore](https://sigstore.dev) - Keyless signing for software artifacts. Applicable to agent action signing.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Scores agent wallet reputation and verifies x402 micropayment readiness. Tools: `score_agent`, `preflight_check`, `get_trust_receipt`. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## Authorization and Policy
 
