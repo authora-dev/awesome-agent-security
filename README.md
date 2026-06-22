@@ -67,6 +67,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 
 *Detecting and responding to AI agent threats.*
 
+- [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call detection before execution.
 - [Authora SIP](https://authora.dev/security) - Security Intelligence Platform with 36 detection rules, 8 SIEM export connectors (Splunk, Datadog, PagerDuty), SOAR callback API, OCSF/CEF compliance.
 - [Caldera](https://caldera.mitre.org) - Automated adversary emulation by MITRE. Adaptable for testing agent security.
 - [Falco](https://falco.org) - Cloud-native runtime security. Detects anomalous behavior in containers running agents.
