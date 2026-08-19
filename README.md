@@ -42,6 +42,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Casbin](https://casbin.org) - Authorization library supporting ACL, RBAC, ABAC models. Implementations in Go, Java, Node.js, Python.
 - [OpenFGA](https://openfga.dev) - Fine-grained authorization inspired by Google Zanzibar. Good for relationship-based agent permissions.
 - [Cerbos](https://cerbos.dev) - Access control with YAML policies. API-first, self-hosted.
+- [MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard) - Deterministic payment policy for agents: budgets, allowlists, rate limits, and signed Ed25519 mandates, with a tamper-evident audit ledger and MCP server. No LLM in the decision path. MIT core.
 
 ## Agent Coordination
 
