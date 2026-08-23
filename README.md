@@ -42,6 +42,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Casbin](https://casbin.org) - Authorization library supporting ACL, RBAC, ABAC models. Implementations in Go, Java, Node.js, Python.
 - [OpenFGA](https://openfga.dev) - Fine-grained authorization inspired by Google Zanzibar. Good for relationship-based agent permissions.
 - [Cerbos](https://cerbos.dev) - Access control with YAML policies. API-first, self-hosted.
+- [decision-os-min](https://github.com/Aliipou/decision-os-min) - Python PEP for agent tool effects: signed action-bound decisions and one-time capability spend; OPA and Cedar remain replaceable grant/deny PDPs.
 
 ## Agent Coordination
 
