@@ -60,6 +60,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [AgentNet](https://authora.dev/products/agentnet) - Task execution marketplace with sandboxed workers, encrypted vault, Security Intelligence Platform (SIP).
 - [E2B](https://e2b.dev) - Open-source sandboxed execution using Firecracker microVMs. Code interpretation and data analysis.
 - [Modal](https://modal.com) - Cloud infrastructure for AI with sandboxed containers, GPU scaling, and batch processing.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Self-hosted, local-first TypeScript agent runtime with sandboxed tools, MCP integration, managed credentials, audit logs, and replayable sessions.
 - [Daytona](https://daytona.io) - Secure infrastructure for running AI-generated code with isolated environments.
 - [Fly.io Machines](https://fly.io/docs/machines/) - Lightweight VMs for running untrusted workloads at the edge.
 
