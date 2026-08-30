@@ -62,6 +62,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Modal](https://modal.com) - Cloud infrastructure for AI with sandboxed containers, GPU scaling, and batch processing.
 - [Daytona](https://daytona.io) - Secure infrastructure for running AI-generated code with isolated environments.
 - [Fly.io Machines](https://fly.io/docs/machines/) - Lightweight VMs for running untrusted workloads at the edge.
+- [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) - Local-first, self-hosted agent runtime with sandboxed sessions, MCP tool governance, approval and credential controls, and audit/replay; isolation depends on the selected backend and deployment configuration.
 
 ## Security Monitoring
 
