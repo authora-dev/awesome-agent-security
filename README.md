@@ -37,11 +37,12 @@ As AI agents move from demos to production, securing them becomes critical. This
 
 *Frameworks for controlling what AI agents can do.*
 
-- [OPA (Open Policy Agent)](https://openpolicyagent.org) - General-purpose policy engine using Rego language. Widely used for infrastructure policy, adaptable for agent authorization.
-- [Cedar](https://www.cedarpolicy.com) - Policy language by AWS for fine-grained authorization. Used in Amazon Verified Permissions.
 - [Casbin](https://casbin.org) - Authorization library supporting ACL, RBAC, ABAC models. Implementations in Go, Java, Node.js, Python.
-- [OpenFGA](https://openfga.dev) - Fine-grained authorization inspired by Google Zanzibar. Good for relationship-based agent permissions.
+- [Cedar](https://www.cedarpolicy.com) - Policy language by AWS for fine-grained authorization. Used in Amazon Verified Permissions.
 - [Cerbos](https://cerbos.dev) - Access control with YAML policies. API-first, self-hosted.
+- [Gram](https://github.com/speakeasy-api/gram) - Open-source control plane for governing agent access to MCPs through policy enforcement, role-scoped permissions, and activity logging.
+- [OPA (Open Policy Agent)](https://openpolicyagent.org) - General-purpose policy engine using Rego language. Widely used for infrastructure policy, adaptable for agent authorization.
+- [OpenFGA](https://openfga.dev) - Fine-grained authorization inspired by Google Zanzibar. Good for relationship-based agent permissions.
 
 ## Agent Coordination
 
