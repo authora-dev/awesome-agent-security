@@ -70,6 +70,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Authora SIP](https://authora.dev/security) - Security Intelligence Platform with 36 detection rules, 8 SIEM export connectors (Splunk, Datadog, PagerDuty), SOAR callback API, OCSF/CEF compliance.
 - [Caldera](https://caldera.mitre.org) - Automated adversary emulation by MITRE. Adaptable for testing agent security.
 - [Falco](https://falco.org) - Cloud-native runtime security. Detects anomalous behavior in containers running agents.
+- [Skill Safe](https://skillsafe.online) - Free hosted pre-install security checker for AI agent skills and MCP servers, with traceable findings and explicit scan limitations.
 - [Wiz](https://wiz.io) - Cloud security platform with AI workload protection.
 
 ## Standards and Protocols
