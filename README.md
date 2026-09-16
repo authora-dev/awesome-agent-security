@@ -108,6 +108,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 
 ## Books and Guides
 
+- [AI Agent Security Layers](https://hol.org/guard/guides/ai-agent-security-layers) - Guide to complementary supply-chain, runtime, audit/evidence, and policy-enforcement layers for securing AI agents.
 - [LLM Security Guide](https://llmsecurity.net) - Comprehensive guide to securing LLM applications.
 - [Anthropic's Responsible Scaling Policy](https://www.anthropic.com/index/anthropics-responsible-scaling-policy) - Framework for safely deploying capable AI systems.
 
