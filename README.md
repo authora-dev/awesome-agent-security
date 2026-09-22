@@ -70,6 +70,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Authora SIP](https://authora.dev/security) - Security Intelligence Platform with 36 detection rules, 8 SIEM export connectors (Splunk, Datadog, PagerDuty), SOAR callback API, OCSF/CEF compliance.
 - [Caldera](https://caldera.mitre.org) - Automated adversary emulation by MITRE. Adaptable for testing agent security.
 - [Falco](https://falco.org) - Cloud-native runtime security. Detects anomalous behavior in containers running agents.
+- [Patronus Ark](https://github.com/patronus-protect/patronus-security) - Rust/Python library for local scanning of agent prompts and tool traffic for prompt injection, secrets, PII and tool risks (GPL-3.0-only; model-backed scanning requires downloaded assets).
 - [Wiz](https://wiz.io) - Cloud security platform with AI workload protection.
 
 ## Standards and Protocols
