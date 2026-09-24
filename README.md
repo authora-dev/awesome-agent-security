@@ -100,6 +100,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [LiteLLM Supply Chain Attack (2025)](https://www.wiz.io/blog/litellm-supply-chain-attack) - Compromised dependency in widely-used LLM proxy.
 - [29 Million Secrets Leaked on GitHub (2024)](https://blog.gitguardian.com/secrets-leaks-2024-report/) - AI coding tools accelerating secret exposure.
 - [ChatGPT Plugin Permission Escalation](https://embracethered.com/blog/posts/2023/chatgpt-plugin-vulns/) - Demonstration of cross-plugin attacks via shared context.
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - Open database of 354 real-world AI agent security records, each with a primary source and a flag separating confirmed harm from researcher demonstrations.
 
 ## Talks and Presentations
 
