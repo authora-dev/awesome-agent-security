@@ -41,6 +41,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Cedar](https://www.cedarpolicy.com) - Policy language by AWS for fine-grained authorization. Used in Amazon Verified Permissions.
 - [Casbin](https://casbin.org) - Authorization library supporting ACL, RBAC, ABAC models. Implementations in Go, Java, Node.js, Python.
 - [OpenFGA](https://openfga.dev) - Fine-grained authorization inspired by Google Zanzibar. Good for relationship-based agent permissions.
+- [Operator Lite](https://github.com/samvallad33/vestige) - A deterministic pre-tool gate that classifies agent shell commands the way the shell resolves them and blocks destructive effects, with hash-chained receipts for every verdict.
 - [Cerbos](https://cerbos.dev) - Access control with YAML policies. API-first, self-hosted.
 
 ## Agent Coordination
