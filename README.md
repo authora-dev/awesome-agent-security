@@ -111,6 +111,8 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [LLM Security Guide](https://llmsecurity.net) - Comprehensive guide to securing LLM applications.
 - [Anthropic's Responsible Scaling Policy](https://www.anthropic.com/index/anthropics-responsible-scaling-policy) - Framework for safely deploying capable AI systems.
 
+- [Truthlocks receipt verification walkthrough](https://github.com/truthlocks/maip/tree/c7cbb95/examples/developer-validation) - Runnable offline Node.js example checking an agent receipt signature, tampered fields, an altered signature, and a substituted key.
+
 ---
 
 ## Contributing
