@@ -42,6 +42,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 - [Casbin](https://casbin.org) - Authorization library supporting ACL, RBAC, ABAC models. Implementations in Go, Java, Node.js, Python.
 - [OpenFGA](https://openfga.dev) - Fine-grained authorization inspired by Google Zanzibar. Good for relationship-based agent permissions.
 - [Cerbos](https://cerbos.dev) - Access control with YAML policies. API-first, self-hosted.
+- [Speakeasy control plane](https://github.com/speakeasy-api/gram) - MCP gateway applying identity-based permissions and per-action policies to agent tool calls, with audit logs.
 
 ## Agent Coordination
 
