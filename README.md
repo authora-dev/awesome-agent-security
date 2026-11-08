@@ -28,6 +28,7 @@ As AI agents move from demos to production, securing them becomes critical. This
 *Tools and platforms for giving AI agents verifiable identities.*
 
 - [Authora Identity](https://authora.dev) - Cryptographic agent identities (Ed25519), RBAC, delegation chains (RFC 8693), MCP authorization, policy engines, approval workflows, audit logging. SDKs in TypeScript, Python, Rust, Go.
+- [Know Your Agent](https://github.com/RishabhPande/know-your-agent) - Educational Python toolkit for Ed25519-signed agent credentials, narrowed delegation, revocation and signed audit records.
 - [Permit.io](https://permit.io) - Fine-grained authorization with agentic identity support. Intent-based identity, MCP gateway, built on OPA/OPAL.
 - [Oso](https://osohq.com) - Authorization framework with Polar policy language. Agent Security product with scope/watch/enforce/audit.
 - [SPIFFE/SPIRE](https://spiffe.io) - Secure Production Identity Framework for Everyone. Workload identity standard applicable to agent systems.
